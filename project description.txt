@@ -1,0 +1,17 @@
+# Project Prompt
+
+##Mixed Messages
+-----------------------------------------------------------------------------
+In this project, you’ll build a message generator program that outputs a new, random message every time a user runs the program. Your program should showcase basic JavaScript syntax and programming concepts.
+
+
+
+## My take: message generator for random for video game.
+-----------------------------------------------------------------------------
+Is a random responce generator that asigns something to say to a robot npc of a cyberpunk like video game. It's a basic structure that can be expanded. For now it Will have 4 different messages displayed with 3 or 4 responces for each.
+
+###___Example:___
+	+**ID:** 58H311 *alias* Helen / 58F555 *alias* Fifi / 58R212 *Alias* R2-ro
+	+**running program:** AI-1.21.4 / Windows 97 ;) nahh! I'm a Rogue one. / AI-1.20.2 / Static-2.5.7
+	+**function:** Cleaner / Fighter / Manteinance / Transport / Host
+	+**status:** Ready for orders./ On duty./ Warning - Battery under 10%. / Overheated - waiting to cooldown
